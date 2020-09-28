@@ -22,6 +22,7 @@ a {
 
 .navbar-text {
   color: white;
+  font-family: "Inter", sans-serif;
 }
 
 .navbar-menu .navbar-item:hover {
@@ -31,4 +32,12 @@ a {
 
 a.navbar-item:hover {
   color: white;
+}
+
+.navbar-menu {
+  background: #c83e4d;
+}
+
+.navbar-burger:hover {
+  background: #c83e4d;
 }
