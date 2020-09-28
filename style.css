@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Shrikhand&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+/* NAVIGATION */
+
+.navbar-logo {
+  font-family: "Shrikhand";
+  color: white;
+}
+
+.navbar {
+  background: #c83e4d;
+}
+
+a {
+  text-decoration: none;
+}
+
+.navbar-burger span {
+  color: white;
+  height: 2px;
+}
+
+.navbar-text {
+  color: white;
+}
+
+.navbar-menu .navbar-item:hover {
+  background: #c83e4d;
+  color: #f4b860;
+}
+
+a.navbar-item:hover {
+  color: white;
+}
